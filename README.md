@@ -18,4 +18,5 @@ To use this tool just clone the repo and run emailchecker.py
 ### Usage
 
 To read from a file, you need to specify the name of the file you want to open. For example, if your file is called emails.txt, you should input the name of the file when prompted so "emails.txt"
+
 **Please ensure that the file you want to import is located in the same directory as the script.**
