@@ -1,4 +1,4 @@
-# emailchecker
+# Emailchecker
 This Python tool allows you to validate email addresses from an input .txt file. 
 It checks each email’s syntax to ensure it follows the correct format and generates a report. The program prints the results directly to the console and the user can also chose to save them to a new output file for further processing.
 
