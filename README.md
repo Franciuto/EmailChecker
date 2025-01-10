@@ -22,4 +22,4 @@ To read from a file, you need to specify the name of the file you want to open. 
 **Please ensure that the file you want to import is located in the same directory as the script.**
 
 ### Usage
-n the [Test](/Test) folder, you can find some .txt files containing 1000 emails, some of which are correct and some are not, so you can try the program yourself
+In the [Test](/Test) folder, you can find some .txt files containing 1000 emails, some of which are correct and some are not, so you can try the program yourself
